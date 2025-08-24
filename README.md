@@ -10,3 +10,7 @@ cd terminal-ui
 npm i
 npm start
 ```
+
+## DEMO
+
+<img src='./demo-teminal-ui.gif' />
