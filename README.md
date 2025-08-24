@@ -13,4 +13,4 @@ npm start
 
 ## DEMO
 
-<img src='./demo-teminal-ui.gif' />
+<img src='./demo-term-ui.gif' />
