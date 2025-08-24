@@ -1,0 +1,14 @@
+@font-face {
+    font-family: FiraCodeNerdFont;
+    src: url('./fira-code/FiraCodeNerdFont-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: 'FiraCodeNerdFont Mono';
+    src: url('./fira-code/FiraCodeNerdFontMono-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: 'FiraCodeNerdFont Propo';
+    src: url('./fira-code/FiraCodeNerdFontPropo-Regular.ttf');
+  }

@@ -1,0 +1,18 @@
+#terminal {
+  font-family: 'FiraCodeNerdFont Mono';
+}
+
+.xterm-rows div span {
+  letter-spacing: 0 !important;
+}
+
+/* .xterm-screen > .xterm-helpers {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+} */
+
+
+.xterm-helpers .xterm-width-cache-measure-container {
+  font-variant-ligatures: contextual;
+}

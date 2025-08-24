@@ -1,0 +1,8 @@
+{
+  "targetDefaults": {
+    "start": {
+      "cache": true,
+      "dependsOn": []
+    }
+  }
+}
